@@ -4,8 +4,7 @@ Acknowledgement:
 --------------------------------------------------------------
 Many thanks to fellow students in the Discussion Forum.
 Though they're too numerous to mention, their help was great.
-Without you guys getting here would have been a nightmare. 
-William Bowers thank you.
+Without you guys getting here would have been a nightmare. William Bowers thank you.
 --------------------------------------------------------------
 
 Johns Hopkins Getting and Cleaning Data course project on Coursera.
